@@ -19,15 +19,19 @@
     <Table ui inverted centered huge>
         <Table_Body>
             <Table_Row>
-                <Table_Col right aligned>Documentation <Icon ui bitbucket/></Table_Col>
+                <Table_Col right aligned>Documentation&nbsp;<Icon ui file/></Table_Col>
                 <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/wiki/Home" target="_blank">https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/wiki/Home</Link></Table_Col>
             </Table_Row>
             <Table_Row>
-                <Table_Col right aligned>Release Version <Icon ui running/></Table_Col>
+                <Table_Col right aligned>Release Version&nbsp;<Icon ui running/></Table_Col>
                 <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/src/master/">https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/src/master/</Link></Table_Col>
             </Table_Row>
             <Table_Row>
-                <Table_Col right aligned>Source Code <Icon ui code/></Table_Col>
+                <Table_Col right aligned>REST API&nbsp;<Icon ui code branch/></Table_Col>
+                <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/src/master/STARTHERE/Documentation/API%20COMMANDS.md">.../STARTHERE/Documentation/API%20COMMANDS.md</Link></Table_Col>
+            </Table_Row>
+            <Table_Row>
+                <Table_Col right aligned>Source Code&nbsp;<Icon ui code/></Table_Col>
                 <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang/src/master/" target="_blank">https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang/src/master/</Link></Table_Col>
             </Table_Row>
         </Table_Body>
