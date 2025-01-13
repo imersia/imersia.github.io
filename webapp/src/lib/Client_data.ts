@@ -88,5 +88,25 @@ The Imersia cloud manages the gameplay at the stores as well as each player’s 
                 <br/><br/><b>Solution: </b>The project group reached out to Imersia to use the live AR features of the Imersia Reality platform to enable sensors at NIWA to drive AR experiences at the art gallery where an exhibition was to take place. The Imersia platform significantly simplified and shortened the development time frame whilst producing results they had only dreamed of.
                 <br/><br/><b>Results: </b>The live exhibition was a resounding success, with over five hundred school children in classes taking part in the exhibition during its month-long period. Subsequently, the resources have been made available to schools to download, which has been taken up by over a dozen schools around Auckland.
             `);
+
+        this.title.push("Windsong – large scale interactive augmented artworks");
+        this.hero_picture.push(windsong_hero);
+        this.front_picture.push(windsong);
+        this.description.push("Wind over water, which became Windsong is a collaboration with local artist Nigel Jamiesson over several years to develop tools for creating interactive Augmented Reality visual and audible artworks spanning several kilometres.");
+        this.youtube_link.push("https://www.youtube.com/embed/LdnxK19W_Eg");
+        this.main_text.push(`<b>Problem:</b> How can artists create large-scale interactive artworks in Augmented Reality that people can affect and that are experienced in a fully-immersive manner?
+                <br/><br/><b>Solution: </b>The Imersia cloud supports this kind of experience, allowing geospatial content including 3D objects, images and sound with full interactivity, however the tools to create the experiences were designed for our own development teams. Over the course of three exhibitions in Sydney Australia, Hong Kong and Auckland, we evolved and refined a web-based artist’s palette to support such exhibitions.
+                <br/><br/><b>Results: </b>In Hong Kong and Australia, since the App was primarily promoted as an artist-driven experience on a few select devices – the number of users was small. However, the response was very positive. This culminated in the Auckland work during an Exhibition of real (physical) art on the coastline of the island, Waiheke.
+            `);
+
+        this.title.push("Multi-player, locational, 3D character story telling");
+        this.hero_picture.push(tangaroa_hero);
+        this.front_picture.push(tangaroa);
+        this.description.push("The local Māori tribe, Ngāti Whātua, are progressively embracing modern technologies to connect their people and visitors to the Meeting house (Marae) and surrounding area. Using Augmented Reality, visitors to the Marae and historic site of Bastion Point can be made immediately aware, through their mobile devices, about local legends and stories, as told by key mythological characters Tumutumu Whenua, and Waitematā.");
+        this.youtube_link.push("https://www.youtube.com/embed/uF4K_ssZnYY");
+        this.main_text.push(`<b>Problem:</b> It is important to be able to reach out to people when they visit key places, based on their actual location, and make them aware of the meaning, history and mythological stories of the place they are at. Further, engaging younger people using modern technologies is an important way of influencing them using tools and techniques they find exciting.
+                <br/><br/><b>Solution: </b>Using Imersia’s unique multi-player, collaborative Augmented Reality technology, we created and animated 3D characters from mythology to appear in front of people, at key places. As a pre-cursor, we also ‘Imersia Reality Enabled’ the Auckland City Anniversary weekend Waka day with collaborative AR Tāngaroa welcoming people to the festival. Imersia Reality is unique, so multiple people at the same location share the same AR experience at the same time.
+                <br/><br/><b>Results: </b>Members of the public, and members of the Ngāti Whātua tribe have been very pleased with the experiences created. Immediately, they have seen the potential for direct engagement with a variety of people both for story telling and tourism.
+            `);
     }
 }

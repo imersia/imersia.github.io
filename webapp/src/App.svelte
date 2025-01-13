@@ -8,7 +8,8 @@
     import Clients from './lib/Clients.svelte';
     import Client_details from './lib/Client_details.svelte'
     import Contact from './lib/Contact.svelte';
-    import Developer from './lib/Developer.svelte';
+    import Resources from './lib/Resources.svelte';
+    import Strategy from './lib/Strategy.svelte';
 
     import Client_Data from './lib/Client_data';
 
@@ -69,19 +70,19 @@
             <About {page} {allImages}/>
         {:else if page==="clients"}
             <Clients bind:page {CD}/>
-        {:else if page==="developer"}
-            <Developer {page}/>
+        {:else if page==="resources"}
+            <Resources {page}/>
         {:else if page==="contact"}
             <Contact {page}/>
         {:else if page.includes('client-')}
             <Client_details bind:page {CD}/>
-        <!-- {:else if page==="marketplace"}
-            <Marketplace {page} {pageHeight}/> -->
+        {:else if page==="strategy"}
+            <Strategy {page}/>
         {/if}
 
         <Container ui>
             <Divider ui/>
-            <Message ui small inverted centered>© coypyright 2020-2025 Imersia Group Limited. All rights reserved.</Message>
+            <Message ui small inverted centered>© coypyright 2015-2025 Imersia Group Limited. All rights reserved.</Message>
             <Divider ui/>
         </Container>
 

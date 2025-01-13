@@ -11,12 +11,12 @@
     <Table ui inverted centered huge>
         <Table_Body>
             <Table_Row>
-                <Table_Col right aligned>Github <Icon ui github/></Table_Col>
-                <Table_Col><Link href="https://github.com/reality-two" target="_blank">https://github.com/reality-two</Link></Table_Col>
+                <Table_Col right aligned>Lead Developer <Icon ui code/></Table_Col>
+                <Table_Col><Link href="mailto:roy@imersia.com?subject=Making contact">Dr. Roy C. Davies</Link></Table_Col>
             </Table_Row>
             <Table_Row>
-                <Table_Col right aligned>Head Developer <Icon ui running/></Table_Col>
-                <Table_Col><Link href="mailto:contact@reality2.ai?subject=Making contact">Dr. Roy C. Davies</Link></Table_Col>
+                <Table_Col right aligned>Lead Strategist <Icon ui running/></Table_Col>
+                <Table_Col><Link href="mailto:jon@imersia.com?subject=Making contact">Jon Lowther</Link></Table_Col>
             </Table_Row>
         </Table_Body>
     </Table>

@@ -27,10 +27,7 @@
 
 <Container ui grid style="padding-top:50px;min-height:200px;padding-bottom:50px;">
     <div bind:this={youtube} style="width:100%"></div>
-    <Column one wide centered>
-        <Button ui basic icon inverted on:click={()=>{page="clients"}}><Icon white caret square left large/></Button>
-    </Column>
-    <Column fifteen wide centered>
+    <Column sixteen wide centered>
         <Text ui big>
             {CD.title[index]}
         </Text>
