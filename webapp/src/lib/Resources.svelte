@@ -13,7 +13,7 @@
     <Column sixteen wide justified>
         <Divider ui/>
         <Text ui large>
-            The Imersia Mixed Reality Server is programmed in Erlang.  Erlang’s real-time engine offers scalability, fault tolerance, and low latency, making it perfect for Imersia’s interactive and dynamic experiences. With seamless distribution, hot code swapping, and efficient memory use, Erlang ensures high performance and resilience, even under heavy loads. Combined with Imersia’s RESTful API, it provides a reliable, scalable solution for real-time engagement at scale.    
+            The Imersia Mixed Reality Server is programmed in Erlang.  Erlang’s real-time engine offers scalability, fault tolerance, and low latency, making it perfect for Imersia’s interactive and dynamic experiences. With seamless distribution, hot code swapping, and efficient memory use, Erlang ensures high performance and resilience, even under heavy loads. Combined with Imersia’s RESTful API and Websockets, it provides a reliable, scalable solution for real-time engagement at scale.    
         </Text>
     </Column>
     <Table ui inverted centered huge>
