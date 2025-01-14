@@ -1,4 +1,4 @@
-# Reality2.ai Website
+# Imersia.com Website
 
 This was created using [Svelte](https://svelte.dev), with the graphics library [Fomantic UI](https://github.com/roycdaviesuoa/svelte-fomantic-ui) using the [vite](https://vite.dev/) framework.
 
