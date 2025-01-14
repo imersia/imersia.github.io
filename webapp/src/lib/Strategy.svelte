@@ -1,5 +1,6 @@
 <script lang="ts">
-    import { Container, Column, Text, Divider } from "svelte-fomantic-ui";
+    import { Container, Column, Text, Divider, Image } from "svelte-fomantic-ui";
+    import strategy from "../assets/strategy.jpg";
 
     export let page = "start";
 
@@ -13,8 +14,11 @@
     <Column sixteen wide justified>
         <Divider ui/>
         <Text ui large>
-            The Imersia Mixed Reality Server allows your designers and developers to create complex simulations and games in the real world that can be experienced through mobile devices, WebApps and Websites. Get started with the free Community Edition, then upgrade when you are ready to go Commercial.  The Imersia platform has been designed from experience of using this platform with clients to create all manner of innovations in Digital Mobile Technologies and Mixed Reality.
+            The Imersia Mixed Reality Server allows your designers and developers to create complex simulations and games in the real world that can be experienced through mobile devices, WebApps and Websites. Get started with the free Community Edition, then upgrade when you are ready to go Commercial.  Our experiences using The Imersia Mixed Reality Tools with clients led to all manner of innovations in Digital Mobile Technologies and Mixed Reality - which you can now employ.
         </Text>
+    </Column>
+    <Column sixteen wide justified>
+        <Image ui src={strategy}/>
     </Column>
     <Column five wide centered>
         <Text ui big>

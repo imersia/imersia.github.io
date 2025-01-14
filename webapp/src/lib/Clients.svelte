@@ -18,7 +18,7 @@
     <Column sixteen wide justified>
         <Divider ui/>
         <Text ui large>
-            Imersia was active for just over six years, with a dedicated team working on innovative client projects.  We worked with over 20 clients in that time, big and small, but all on the cutting edge of consumer engagement.
+            Imersia was active for just over six years, with a dedicated team working on innovative client projects.  We worked with over 20 clients in that time, big and small, but all on the cutting edge of consumer engagement.  The Imersia Mixed Reality Geospatial Gaming Server evolved as a direct result of these clients' needs.
         </Text>
     </Column>
 
