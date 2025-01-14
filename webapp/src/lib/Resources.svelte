@@ -30,10 +30,6 @@
                 <Table_Col right aligned>REST API&nbsp;<Icon ui code branch/></Table_Col>
                 <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang-rel/src/master/STARTHERE/Documentation/API%20COMMANDS.md">.../STARTHERE/Documentation/API%20COMMANDS.md</Link></Table_Col>
             </Table_Row>
-            <Table_Row>
-                <Table_Col right aligned>Source Code&nbsp;<Icon ui code/></Table_Col>
-                <Table_Col><Link href="https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang/src/master/" target="_blank">https://bitbucket.org/imersiageneral/cloud-mixed-reality-server-erlang/src/master/</Link></Table_Col>
-            </Table_Row>
         </Table_Body>
     </Table>
     <Column sixteen wide justified>

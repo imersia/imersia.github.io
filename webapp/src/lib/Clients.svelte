@@ -11,7 +11,7 @@
     }
 </script>
 
-<Container ui grid style="padding-top:50px;min-height:200px;padding-bottom:50px;">
+<Container ui grid style="padding-top:50px;min-height:200px;padding-bottom:50px;" stackable>
     <Column sixteen wide centered>
         <Text ui big>A selection of past clients and projects</Text>
     </Column>
